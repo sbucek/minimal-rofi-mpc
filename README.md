@@ -38,7 +38,7 @@ mpd ~/.config/mpd/mpd.conf
 ```
 #### Deployment
 ```
-sudo wget -O /usr/local/bin/rofi-mpc  https://raw.githubusercontent.com/Marco98/rofi-mpc/master/rofi-mpc
+sudo wget -O /usr/local/bin/rofi-mpc  https://raw.githubusercontent.com/sbucek/rofi-mpc/master/rofi-mpc
 sudo chmod +x /usr/local/bin/rofi-mpc
 ```
 Then you just need to set a keybind for rofi-mpc
