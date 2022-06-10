@@ -1,11 +1,8 @@
 # rofi-mpc
-Fast graphical Rofi-Interface for contolling MPD  
-now in the AUR! *aur/rofi-mpc*
+Stripped down version of Marco98/rofi-mpc package to list and play playlist entries from multiple MPD sources.
+Fast graphical Rofi-Interface for for quick switching between audio sources.
 ## Features
 #### Current list of features:
-* Volume Control
-* Play & Pause
-* Prev & Next
 * List and Play playlist entries
 * Source Selection:
   * Playlist generation for the **~/Music** directory
