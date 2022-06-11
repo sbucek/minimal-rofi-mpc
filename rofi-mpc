@@ -1,4 +1,4 @@
-#!/usr/bin/env pytho#!/usr/bin/env python
+#!/usr/bin/env python
 from subprocess import Popen, PIPE, STDOUT, check_output, check_call
 from pathlib import Path
 from os import listdir
@@ -43,7 +43,7 @@ if tmp == "SOURCES":
 	rofi = Popen(["rofi", "-mesg", current, "-i", "-dmenu", "-p", "Select Source: "], stdout=PIPE, stdin=PIPE)
 	tmp = rofi.communicate(input=commands.encode())[0].decode().rstrip()
 	if not tmp:
-		sys.exit(0)
+		sys.exit(0)	
 	elif tmp == "Local ~/Music":
 		check_call(["mpc", "clear"])
 		check_call(["mpc", "update"])
