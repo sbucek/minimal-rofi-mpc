@@ -1,6 +1,6 @@
 # rofi-mpc
 Stripped down version of Marco98/rofi-mpc package to list and play playlist entries from multiple MPD sources.
-Fast graphical Rofi-Interface for for quick switching between audio sources.
+Fast graphical Rofi-Interface for quick switching between audio sources. Removed unneeded functionality to jump straight to the playlist selection.
 ## Features
 #### Current list of features:
 * List and Play playlist entries
