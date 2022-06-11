@@ -8,9 +8,8 @@ Fast graphical Rofi-Interface for for quick switching between audio sources.
   * Playlist generation for the **~/Music** directory
   * List and Load playlists from mpd's **playlist_directory**
 #### Planned features:
-* "Copy & Paste" Stream URLs
-* Saving Stream URLs as .m3u in mpd's **playlist_directory**
-* Switching between local and remote mpd servers for remote control
+* Implement "Play/Pause" toggling functionality directly in the playlist
+* Enable toggling rofi on/off using same keyboard shourctus 
 ## Installation
 #### Requirements
 * **python**
