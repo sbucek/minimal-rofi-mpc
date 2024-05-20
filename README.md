@@ -7,9 +7,6 @@ Fast graphical Rofi-Interface for quick switching between audio sources. Removed
 * Source Selection:
   * Playlist generation for the **~/Music** directory
   * List and Load playlists from mpd's **playlist_directory**
-#### Planned features:
-* Implement "Play/Pause" toggling functionality directly in the playlist
-* Enable toggling rofi on/off using same keyboard shourctus 
 ## Installation
 #### Requirements
 * **python**
